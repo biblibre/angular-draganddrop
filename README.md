@@ -10,12 +10,6 @@ Drag and drop directives for Angular using native HTML5 API.
 
 ## Install
 
-### Using bower
-
-```sh
-bower install angular-draganddrop
-```
-
 ### Using npm
 
 ```sh
